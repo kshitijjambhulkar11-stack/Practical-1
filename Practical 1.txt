@@ -1,0 +1,10 @@
+<html>
+<title>Practicl 1</title>
+<head>
+</head>
+<body bgcolor="blue">
+<p>Here we are learning new elements</p>
+<p><b>Kshitij Jambhulkar</p>
+<p><i>CS25026</p>
+<p><u>Section A</p>
+<h1 assign="centre">Hello</h1>

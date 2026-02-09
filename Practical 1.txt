@@ -8,5 +8,6 @@
 <p><i>CS25026</p>
 <p><u>Section A</p>
 
-<h1 assign="centre">Hello</h1>
+<h1 allign="centre">Hello</h1>
 </html>
+
